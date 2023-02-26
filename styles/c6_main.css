@@ -53,8 +53,6 @@ main {
 main h1 {
 	font-size: 150%;
 	padding: .5em 0 .25em 0;
-    border-top: 3px solid #931420;
-    border-bottom: 3px solid #931420;
 }
 main h2 {
 	color: #800000;
@@ -85,8 +83,8 @@ main li {
 /* the styles for the article */
 article {
 	padding: .5em 0;
-	border-top: 2px solid #800000;
-	border-bottom: 2px solid #800000;
+	border-top: 3px solid #800000;
+	border-bottom: 3px solid #800000;
 }
 article h2 {
 	padding-top: 0;
@@ -121,7 +119,7 @@ aside img {
 
 /* the styles for the footer */
 footer {
-	background-color: #931420;]
+	background-color: #931420;
 	clear: both;
 }
 footer p {
